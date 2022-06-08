@@ -1,4 +1,4 @@
-# Bibliografía / Referencia
+# Esta inspirado en:
 
   https://www.lawebdelprogramador.com/foros/Python/1591790-lista-resta-y-suma-de-consecutivos.html?utm_source=pocket_mylist
 
